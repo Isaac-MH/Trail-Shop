@@ -1,0 +1,10 @@
+[package]
+name = "isaac-marquez/experimentation"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Knit = "sleitnick/knit@1.4.7"
+#Signal = "sleitnick/signal@1.2.0"
+Fusion = "elttob/fusion@0.1.1-beta"

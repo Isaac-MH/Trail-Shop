@@ -1,0 +1,30 @@
+{
+  "name": "Experimentation",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Modules": {
+        "$path": "src/ReplicatedStorage"
+      },
+      
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/Server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/StarterPlayerScripts"
+        }
+      }
+    }
+  }
+}
